@@ -1,0 +1,2 @@
+﻿target_time_KST,latest_known_time_KST,training_rows,ridge_alpha,day_type,holiday,season,functioning_day,persistence_prediction,linear_regression_prediction,walk_forward_folds,persistence_walk_forward_tuning_mae,linear_regression_walk_forward_tuning_mae
+2017-12-01 10:00,2017-12-01 09:00,7,100.0,weekday,No Holiday,Winter,Yes,490,540,4,317.5,273.21
